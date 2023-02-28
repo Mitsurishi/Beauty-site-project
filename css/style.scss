@@ -3,7 +3,7 @@ $color2: #66C05D;
 $color3: #333333;
 $color-white: #ffffff;
 $color-black: #000000;
-$container-width: 1200px;
+$container-desktop: 1200px;
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -11,7 +11,7 @@ body {
 
 .container {
     margin: 0 auto;
-    max-width: $container-width;
+    max-width: $container-desktop;
     padding: 0 2% 0;
 }
 
